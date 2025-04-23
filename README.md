@@ -26,10 +26,6 @@ flutter pub get
 flutter run
 ```
 
-## 🌐 Görseller
-
-![Ekran Görüntüsü](assets/screenshots/sample.png)
-
 ## 📄 Lisans
 
 MIT Lisansı ile dağıtılmaktadır. 
