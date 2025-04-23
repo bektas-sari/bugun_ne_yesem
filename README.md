@@ -33,4 +33,9 @@ MIT Lisansı ile dağıtılmaktadır.
 
 ⚡ Proje geliştirici: [Bektas SARI](https://github.com/bektas-sari)
 
+## İletişim
+Email: bektas.sari@gmail.com
+
+---
+
 
