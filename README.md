@@ -1,6 +1,7 @@
-# 🍽️ Bugün Ne Yesem?
+# 🍽️ Bugün Ne Yesem? (Flutter Mobil Uygulama)
 
-“Bugün ne yesem?” sorusuna tek tuşta cevap! Bu Flutter uygulaması, rastgele çorba, ana yemek ve tatlı önerileri sunarak kararsızlığı ortadan kaldırır. Kullanıcı dostu arayüzü ve sade tasarımıyla öğün seçimini keyifli hale getirir.
+“Bugün ne yesem?” sorusuna tek tuşta cevap! Bu Flutter uygulaması, rastgele çorba, ana yemek ve tatlı önerileri sunarak kararsızlığı ortadan kaldırır. 
+Kullanıcı dostu arayüzü ve sade tasarımıyla öğün seçimini keyifli hale getirir.
 
 > ✉️ Not: Bu uygulama, Udemy üzerinde **Kodplanet** adlı eğitmenin Flutter dersi doğrultusunda birebir öğrenilerek yapılmış, sonrasında öğrendiklerimle geliştirilerek zenginleştirilmiştir.
 
